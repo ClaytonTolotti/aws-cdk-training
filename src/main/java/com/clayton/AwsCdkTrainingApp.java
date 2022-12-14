@@ -1,5 +1,6 @@
-package com.myorg;
+package com.clayton;
 
+import com.clayton.stacks.VpcStack;
 import software.amazon.awscdk.App;
 
 public class AwsCdkTrainingApp {
